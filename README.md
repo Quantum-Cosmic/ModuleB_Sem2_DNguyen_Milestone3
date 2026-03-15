@@ -1,7 +1,3 @@
-My apologies! Here's the corrected README with your actual files:
-
----
-
 # OMDS-ModB2 - Dustin Nguyen
 
 ## 📁 Repository Contents
